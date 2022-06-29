@@ -6,10 +6,10 @@ categories: methods
 ---
 
 ## Schemes of Highthroughput Calculation
-![Image](Figure/Scheme.png)
+![Image](../Figure/Scheme.png)
 
 ## Workflow Program
-![Image](Figure/Workflow.png)
+![Image](../Figure/Workflow.png)
 
 ## Parameter Calculation
-![Image](Figure/Parameters.png)
+![Image](../Figure/Parameters.png)
