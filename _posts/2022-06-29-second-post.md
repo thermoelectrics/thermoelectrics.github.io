@@ -6,4 +6,4 @@ categories: methods
 ---
 
 ## Current Prototype Structures
-![Image](Figure/CalculatedStructurePrototypes.png)
+![Image](../Figure/CalculatedStructurePrototypes.png)
